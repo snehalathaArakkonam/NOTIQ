@@ -82,6 +82,20 @@ flowchart TD
     C --> Q[Export as PDF or DOCX]
     C --> R[Quiz Mode]
 ```
+## Screenshots
+<img width="1831" height="875" alt="image" src="https://github.com/user-attachments/assets/b338d93c-ca24-4d01-9e89-ece5f8b03f98" />
+<img width="1647" height="851" alt="image" src="https://github.com/user-attachments/assets/004aa84d-165d-4688-a587-9bfdea0c0f96" />
+<img width="1587" height="657" alt="image" src="https://github.com/user-attachments/assets/27858a07-769a-4060-b4ee-0690c1b09d8c" />
+<img width="1277" height="717" alt="image" src="https://github.com/user-attachments/assets/59009954-7d24-4f65-a8db-05468f64e3f0" />
+<img width="801" height="787" alt="image" src="https://github.com/user-attachments/assets/3d3882bc-2b7c-4ee5-a98b-24f80ad72a59" />
+<img width="1252" height="697" alt="image" src="https://github.com/user-attachments/assets/6e98874f-8e98-4e02-a960-84f355eb3348" />
+<img width="1267" height="790" alt="image" src="https://github.com/user-attachments/assets/578513a3-bdb7-4b9e-8177-61082a1d10a3" />
+<img width="1272" height="802" alt="image" src="https://github.com/user-attachments/assets/dd9b1d5e-a037-48ca-90eb-b63f560136fd" />
+<img width="1270" height="782" alt="image" src="https://github.com/user-attachments/assets/43dca6f1-aed2-4914-b6cb-51851fc59b45" />
+<img width="1191" height="772" alt="image" src="https://github.com/user-attachments/assets/6b29a309-475f-43b8-93f5-63482494a053" />
+<img width="1541" height="401" alt="image" src="https://github.com/user-attachments/assets/d2d20449-f8cb-4b6f-a0a7-ca68761c8456" />
+# and its converts into our favored language
+<img width="1232" height="790" alt="image" src="https://github.com/user-attachments/assets/e4699def-8010-4214-9b63-9ed34afd9c6b" />
 
 ## Tech Stack
 

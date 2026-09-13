@@ -10,8 +10,8 @@
 
         Personalized Study Notes Generator
 ```
+ 
 
-</div>
 
 
 <div align="center">
